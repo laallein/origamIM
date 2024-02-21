@@ -1,4 +1,4 @@
-# origamIM: : An Ambiguous Dataset of Sentence Interpretations, Implicit Moral Judgments and Reader Impressions
+# origamIM: An Ambiguous Dataset of Sentence Interpretations, Implicit Moral Judgments and Reader Impressions
 
 ## Introduction
 
