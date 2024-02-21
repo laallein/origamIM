@@ -6,6 +6,8 @@ This repository contains the dataset introduced in the following paper:
 
 Allein, Liesbeth, and Marie-Francine Moens. "OrigamIM: An Ambiguous Dataset of Sentence Interpretations, Implicit Moral Judgments and Reader Impressions."  _Proceedings of the 3rd Workshop on Perspectivist Approaches to NLP @LREC-COLING 2024_ (2024)
 
+Please cite this paper when using the origamIM dataset.
+
 ## Data
 
 The dataset can be found in the `data_folds/fold_1` folder, which contains the train/validation/test splits we suggest for developing computational systems. The full dataset can be simply obtained by combining the three splits. The splits were sampled by title_id to ensure that there is no overlap in blog posts between the three splits. 
