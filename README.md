@@ -8,7 +8,7 @@ Allein, Liesbeth, and Marie-Francine Moens. "OrigamIM: An Ambiguous Dataset of S
 
 ## Data
 
-The dataset can be found in the `data_folds/fold_1` folder, which contains the train/validation/test splits as used in the paper. The full dataset can be simply obtained by combining the three splits. The splits were sampled by title_id to ensure that there is no overlap in blog posts between the three splits. 
+The dataset can be found in the `data_folds/fold_1` folder, which contains the train/validation/test splits we suggest for developing computational systems. The full dataset can be simply obtained by combining the three splits. The splits were sampled by title_id to ensure that there is no overlap in blog posts between the three splits. 
 
 The dataset schema is given in detail [below](#dataset-format)
 
