@@ -4,9 +4,13 @@
 
 This repository contains the dataset introduced in the following paper:
 
-Allein, Liesbeth, and Marie-Francine Moens. "OrigamIM: An Ambiguous Dataset of Sentence Interpretations, Implicit Moral Judgments and Reader Impressions."  _Proceedings of the 3rd Workshop on Perspectivist Approaches to NLP @LREC-COLING 2024_ (2024)
+Allein, Liesbeth, and Marie-Francine Moens. "OrigamIM: An Ambiguous Dataset of Sentence Interpretations, Implicit Moral Judgments and Reader Impressions."  _Proceedings of the 3rd Workshop on Perspectivist Approaches to NLP @LREC-COLING 2024_ (2024).
 
 Please cite this paper when using the origamIM dataset.
+
+For interpretation modeling frameworks and a demonstration of the importance of the interpretation modeling task for content moderation, we refer to:
+
+Allein, Liesbeth, Maria Mihaela Truşcǎ, and Marie-Francine Moens. "Interpretation modeling: Social grounding of sentences by reasoning over their implicit moral judgments." _arXiv preprint arXiv:2312.03726_ (2023).
 
 ## Data
 
@@ -19,9 +23,9 @@ The dataset is licensed under the [CC BY-SA 4.0](https://creativecommons.org/lic
 
 ### Dataset format
 
-The dataset is structured in two ways:
+The dataset is structured in the following way:
 
-(1) One annotated interpretation for one sentence per line; the interpretations of a sentence follow the order in which they were submitted by the annotators. (e.g., `train.csv`)
+One annotated interpretation for one sentence per line; the interpretations of a sentence follow the order in which they were submitted by the annotators. (e.g., `train.csv`)
 
 column | type | description
 --- | --- | ---
