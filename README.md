@@ -8,10 +8,6 @@ Allein, Liesbeth, and Marie-Francine Moens. "OrigamIM: An Ambiguous Dataset of S
 
 Please cite this paper when using the origamIM dataset.
 
-For interpretation modeling frameworks and a demonstration of the importance of the interpretation modeling task for content moderation, we refer to:
-
-Allein, Liesbeth, Maria Mihaela Truşcǎ, and Marie-Francine Moens. "Interpretation modeling: Social grounding of sentences by reasoning over their implicit moral judgments." _arXiv preprint arXiv:2312.03726_ (2023).
-
 ## Data
 
 The .csv files contain the train/validation/test splits we suggest for developing computational systems. The full dataset can be simply obtained by combining the three splits. The splits were sampled by title_id to ensure that there is no overlap in blog posts between the three splits. 
