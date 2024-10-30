@@ -6,7 +6,9 @@ This repository contains the dataset introduced in the following paper:
 
 Allein, Liesbeth, and Marie-Francine Moens. "OrigamIM: An Ambiguous Dataset of Sentence Interpretations, Implicit Moral Judgments and Reader Impressions."  _Proceedings of the 3rd Workshop on Perspectivist Approaches to NLP @LREC-COLING 2024_ (2024).
 
-Please cite this paper when using the origamIM dataset.
+(*) Allein, Liesbeth, Maria Mihaela Trusca, and Marie-Francine Moens. "Interpretation modeling: Social grounding of sentences by reasoning over their implicit moral judgments." _Artificial Intelligence_ (2024).
+
+(*) Please cite this paper when using the origamIM dataset.
 
 ## Data
 
