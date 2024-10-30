@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains the dataset introduced in the following paper:
+This repository contains the dataset introduced in the following papers:
 
 Allein, Liesbeth, and Marie-Francine Moens. "OrigamIM: An Ambiguous Dataset of Sentence Interpretations, Implicit Moral Judgments and Reader Impressions."  _Proceedings of the 3rd Workshop on Perspectivist Approaches to NLP @LREC-COLING 2024_ (2024).
 
