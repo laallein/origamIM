@@ -8,7 +8,7 @@ Allein, Liesbeth, and Marie-Francine Moens. "OrigamIM: An Ambiguous Dataset of S
 
 Allein, Liesbeth, Maria Mihaela Trusca, and Marie-Francine Moens. "Interpretation modeling: Social grounding of sentences by reasoning over their implicit moral judgments." _Artificial Intelligence_ (2024).
 
-Please both papers when using the origamIM dataset.
+Please cite both papers when using the origamIM dataset.
 
 ## Data
 
